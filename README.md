@@ -1,5 +1,5 @@
 
-# Automatização de Compras em um Site com Selenium
+# Automatização de Compras com Selenium
 
 Este guia fornecerá instruções passo a passo para executar o código Python fornecido, que automatiza o processo de compra em um site utilizando a biblioteca Selenium.
 
