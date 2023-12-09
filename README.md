@@ -13,7 +13,7 @@ Este guia fornecerá instruções passo a passo para executar o código Python f
     pip install selenium xmltodict
     ```
 
-3. **Driver do navegador:** Baixe o driver do Chrome em [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) e certifique-se de ter o executável na sua variável de ambiente PATH ou no mesmo diretório do script Python.
+3. **Driver do navegador:** Baixe o driver do Chrome e certifique-se de ter o executável na sua variável de ambiente PATH ou no mesmo diretório do script Python.
 
 ### Executando o Código:
 
