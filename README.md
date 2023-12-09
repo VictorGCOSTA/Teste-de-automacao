@@ -22,7 +22,7 @@ Este guia fornecerá instruções passo a passo para executar o código Python f
    - Clone o repositório usando Git:
 
     ```bash
-    git clone https://github.com/seu_usuario/seu_repositorio.git
+    git clone https://github.com/VictorGCOSTA/Teste-de-automacao.git
     ```
    
    - Ou baixe o arquivo ZIP e extraia-o.
