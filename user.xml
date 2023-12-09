@@ -1,0 +1,7 @@
+<user>
+    <username>standard_user</username>
+    <password>secret_sauce</password>
+    <firstname>João</firstname>
+    <lastname>Silva</lastname>
+    <postalcode>12345</postalcode>
+</user>
