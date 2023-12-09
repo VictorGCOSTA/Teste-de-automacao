@@ -34,8 +34,10 @@ Este guia fornecerá instruções passo a passo para executar o código Python f
 3. **Execute o Script:**
 
    - Abra o terminal ou prompt de comando e navegue até o diretório onde o código está localizado:
+    ```bash
+    cd .\Teste-de-automacao\
+   ```
    - Execute o script Python:
-
     ```bash
     python teste_automacao.py
     ```
